@@ -59,7 +59,7 @@ storing secure env variables for decryption
 Make sure to add super_secret.txt.enc to the git repository.
 Make sure not to add super_secret.txt to the git repository.
 Commit all changes to your .travis.yml.
-```
+`` `
 
 ### Encrypting multiple files
 
